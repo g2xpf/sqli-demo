@@ -1,0 +1,9 @@
+[submodule "sqli-demo-client"]
+	path = sqli-demo-client
+	url = https://github.com/g2xpf/sqli-demo-client
+[submodule "sqli-demo-server"]
+	path = sqli-demo-server
+	url = https://github.com/g2xpf/sqli-demo-server
+[submodule "sqli-demo-setup"]
+	path = sqli-demo-setup
+	url = https://github.com/g2xpf/sqli-demo-setup
